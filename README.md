@@ -20,7 +20,7 @@ As simple as that!
 
 
 ## Credits:
-1. [Unblocked-pw](https://github.com/unblocked-pw) for their awesome work on which my site  [unblocked torrent search mirrors](https://sk4201.github.io/Torrent-search) is based.
+1. [Unblocked-pw](https://github.com/sk4201/unblocked-pw.github.io) for their awesome work on which my site  [unblocked torrent search mirrors](https://sk4201.github.io/Torrent-search) is based.
 --------------------------------------
 --------------------------------------
 
